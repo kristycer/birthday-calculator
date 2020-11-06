@@ -1,0 +1,78 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/kristynacervenkova/Desktop/birthday-calculator/spec/user_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          2,
+          null,
+          3,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          2,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          null,
+          2,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/kristynacervenkova/Desktop/birthday-calculator/lib/user.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1578610800
+  }
+}
